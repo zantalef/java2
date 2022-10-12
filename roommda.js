@@ -1,7 +1,7 @@
 $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
 -webkit-text-fill-color: #fff;
-background-image: url(https://g.top4top.io/p_2474hbsnf1.png);
+background-image: url(https://k.top4top.io/p_2476pc6851.png);
 border-radius: 12px 0px 0px 12px !important;
 }
 .nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd.bord {border-inline: 4px solid #eb0c99 !important;}
