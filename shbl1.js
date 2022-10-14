@@ -157,19 +157,19 @@ $(`<style>.nosel.d-flex.room.r17fcfdf3eb0x2a8feb34xdqcvgd .corner.fa.fa-user.lab
     border:1px solid #fffefe;
     border-bottom:1px solid #fffefe}`);
     
-    var r_mda = false;
+    var roommadatest = false;
     
     setInterval(function () {
         if (myroom == '17fcfdf3eb0x2a8feb34xdqcvgd') {
-            if (r_mda == false) {
-                r_mda = true;
+            if (roommadatest == false) {
+                roommadatest = true;
                 $('#users').addClass('mda1');
                 $('#d2').addClass('mda2');
                 $('#mic').addClass('mda3');
             }
         } else {
-            if (r_mda == true) {
-                r_mda = false;
+            if (roommadatest == true) {
+                roommadatest = false;
                 $("#users").removeClass('mda1');
                 $("#d2").removeClass('mda2');
                 $('#mic').removeClass('mda3');
